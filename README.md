@@ -1,3 +1,14 @@
+---
+title: DetectFarm AI
+emoji: 🌾
+colorFrom: green
+colorTo: blue
+sdk: docker
+pinned: false
+---
+
+
+
 # 🌱 DetectFarm — Satellite Imagery Farmland Analyzer
 
 > **Upload a satellite image. Get instant farmland intelligence.**  
